@@ -1,2 +1,6 @@
 CreatedAgain.txt
+<<<<<<< HEAD
 AddLocal
+=======
+CreateOnGIT
+>>>>>>> c19d7adb953f82f38b922384caff61003e340257
