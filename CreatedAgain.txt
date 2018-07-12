@@ -1,4 +1,1 @@
 CreatedAgain.txt
-
-GIT
-Local
