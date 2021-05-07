@@ -1,5 +1,7 @@
-test conflictmaster_1st created
-
+aaa
+bbb
 conflict
-
 modify confilct on branch LX002
+modify content by branch01
+
+#add branch LX01/LX02
